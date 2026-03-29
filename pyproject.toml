@@ -1,0 +1,11 @@
+[project]
+name = "iwanttoeat-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-genai>=1.69.0",
+    "streamlit>=1.55.0",
+    "streamlit-geolocation>=0.0.10",
+]
